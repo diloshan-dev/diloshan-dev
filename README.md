@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CC985,100:0078D6&height=220&section=header&text=Diloshan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%26%20Web%20Application%20Developer&descAlignY=55&descSize=20"/>
-
-<img src="avatar-ring.svg" width="200" alt="Diloshan Avatar"/>
+<img src="avatar-ring.gif" width="200" alt="Diloshan Avatar"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CC985&center=true&vCenter=true&width=700&lines=Building+high-performance+Python+tools;Crafting+AI-integrated+desktop+software;Algorithmic+Trading+%26+Automation+Enthusiast;PHP+%26+MySQL+Web+Developer;Clean+Code.+Clean+UI.+Always." alt="Typing SVG"/>
 
