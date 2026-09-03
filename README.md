@@ -180,7 +180,7 @@ A web development project focused on clean, functional front-end and back-end ar
 <div align="center">
 
 <!-- This animated snake needs the included snake.yml GitHub Action (see setup note below) -->
-<img src="https://raw.githubusercontent.com/diloshan-dev/diloshan-dev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation eating my GitHub contributions"/>
+<img src="https://raw.githubusercontent.com/diloshan-dev/diloshan-dev/output/dist/github-contribution-grid-snake.gif" width="100%" alt="Snake animation eating my GitHub contributions"/>
 
 </div>
 
