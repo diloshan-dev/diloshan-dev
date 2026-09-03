@@ -115,6 +115,21 @@ A web development project focused on clean, functional front-end and back-end ar
 </tr>
 </table>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diloshan-dev&theme=tokyo-night&hide_border=true" width="100%" alt="Diloshan's Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diloshan-dev&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
+
+</div>
+
+---
 
 <div align="center">
 
