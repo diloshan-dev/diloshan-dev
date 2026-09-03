@@ -125,6 +125,7 @@ A web development project focused on clean, functional front-end and back-end ar
 
 <br/><br/>
 
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diloshan-dev&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
 
 </div>
