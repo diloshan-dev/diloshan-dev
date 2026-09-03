@@ -121,15 +121,17 @@ A web development project focused on clean, functional front-end and back-end ar
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=diloshan-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Diloshan's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diloshan-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=diloshan-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=diloshan-dev&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diloshan-dev&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=diloshan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 <div align="center">
