@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CC985,100:0078D6&height=220&section=header&text=Diloshan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20%26%20Web%20Application%20Developer&descAlignY=55&descSize=20"/>
+<img width="603" height="606" alt="image" src="https://github.com/user-attachments/assets/002524c5-3e90-4dbe-bf52-5e44556551ef" />
 
 <img src="avatar-ring.svg" width="200" alt="Diloshan Avatar"/>
 
@@ -44,58 +44,26 @@
 <div align="center">
 
 ### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,php,java,c,cpp,cs,js,ts,html,css&theme=dark" /><br/><br/>
 
 ### 🖥️ Desktop & Software Development
+<img src="https://skillicons.dev/icons?i=qt,py,pyinstaller&theme=dark" />
 
-![Desktop Apps](https://img.shields.io/badge/Desktop_Apps-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Multi Threading](https://img.shields.io/badge/Multi--Threading-FF6F00?style=for-the-badge&logo=cpu&logoColor=white)
-![GUI Development](https://img.shields.io/badge/GUI_Development-2CC985?style=for-the-badge&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-2CC985?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-000000?style=for-the-badge&logo=python&logoColor=white)
+`Desktop Apps` `Multi-Threading` `GUI Development` `CustomTkinter` `Tkinter`<br/><br/>
 
 ### 📈 Trading & Automation
-
-![Algo Trading](https://img.shields.io/badge/Algo_Trading-00E676?style=for-the-badge&logo=chartdotjs&logoColor=black)
-![TradingView](https://img.shields.io/badge/TradingView-131722?style=for-the-badge&logo=tradingview&logoColor=white)
-![MetaTrader](https://img.shields.io/badge/MetaTrader-1E222D?style=for-the-badge&logo=metatrader&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-FFB300?style=for-the-badge&logo=python&logoColor=black)
-![Bot Development](https://img.shields.io/badge/Bot_Development-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+`Algo Trading` `TradingView` `MetaTrader` `Web Scraping` `Bot Development`<br/><br/>
 
 ### 🗄️ Databases & Backend
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb&theme=dark" />
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+`REST API`<br/><br/>
 
 ### 🤖 AI & APIs
-
-![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+`Anthropic Claude` `Pillow`<br/><br/>
 
 ### 🛠️ Tools & Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=windows,apple,linux,git,github,vscode,postman&theme=dark" />
 
 </div>
 
